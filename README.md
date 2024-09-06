@@ -13,9 +13,18 @@ Run the following command to initialize your Node.js project:
 ```bash
 npx init -y
 
-### 2. Install Dependecies
+###
 Run the following command to install your Node.js dependecies:
 
-```bash
 npm install typescript --save-dev
 npm install @types/xrm --save-dev
+
+Create a "src" folder:
+
+Compile all files:
+
+npx tsc
+
+Compile Specific File:
+
+npx tsc src/file_name --outDir destination_folder
