@@ -13,7 +13,7 @@ Run the following command to initialize your Node.js project:
 ```bash
 npx init -y
 
-### 2.  Install Dependecies
+### 2. Install Dependecies
 Run the following command to install your Node.js dependecies:
 
 ```bash
