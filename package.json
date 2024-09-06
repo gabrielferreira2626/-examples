@@ -1,0 +1,24 @@
+{
+  "name": "-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielferreira2626/-examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielferreira2626/-examples/issues"
+  },
+  "homepage": "https://github.com/gabrielferreira2626/-examples#readme",
+  "devDependencies": {
+    "@types/xrm": "^9.0.80",
+    "typescript": "^5.5.4"
+  }
+}
